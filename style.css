@@ -1,0 +1,11 @@
+.nav-bar{
+   background-color: black; 
+   color :white;
+   height: 46px;
+   
+}
+.btn{
+    background-color: black;
+    width: 103px;
+    height: 40px;
+}
